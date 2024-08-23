@@ -1,5 +1,5 @@
 # UFEDKMLmerge
-UFEDKMLmerge is a Python script designed to merge multiple KML files exported from Cellebrite UFED [^1] into a single KML file. This tool streamlines the merging process, making it easier to handle large sets of KML files efficiently. The script includes logging, error handling, and options for selecting which KML files to merge. This script has been tailored to meet my professional needs, helping me streamline my workflow. By sharing this script, I hope it can be useful for others working with similar data sets. UFEDKMLmerge serves as an excellent complement to **[UFEDMapper](https://github.com/ot2i7ba/UFEDMapper)**.
+UFEDKMLmerge is a Python script designed to merge multiple KML files exported from Cellebrite UFED [^1] into a single KML file. This tool streamlines the merging process, making it easier to handle large sets of KML files efficiently. The script includes logging, error handling, and options for selecting which KML files to merge. This script has been tailored to meet my professional needs, helping me streamline my workflow. By sharing this script, I hope it can be useful for others working with similar data sets. UFEDKMLmerge serves as an excellent complement to [UFEDMapper](https://github.com/ot2i7ba/UFEDMapper).
 
 ## Table of Contents
 - [Features](#features)

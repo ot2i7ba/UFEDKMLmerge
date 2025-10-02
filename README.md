@@ -7,9 +7,6 @@ UFEDKMLmerge is a Python script designed to merge multiple KML files exported fr
 > [!WARNING]
 Please note that this script is currently under development, and I cannot provide a 100% guarantee that it operates in a forensically sound manner. It is tailored to meet specific needs at this stage. Use it with caution, especially in environments where forensic integrity is critical.
 
-> [!CAUTION]
-> This project is based on the original repository by [ot2i7ba](https://github.com/ot2i7ba).
-
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
@@ -126,6 +123,9 @@ The log file UFEDKMLmerge.log will be created in the same directory as the scrip
 
 ___
 
+> [!CAUTION]
+> This project is based on the original repository by [ot2i7ba](https://github.com/ot2i7ba).
+
 # License
 This project is licensed under the **[MIT license](https://github.com/ot2i7ba/UFEDKMLmerge/blob/main/LICENSE)**, providing users with flexibility and freedom to use and modify the software according to their needs.
 
@@ -140,5 +140,6 @@ This script has been tailored to fit my specific professional needs, and while i
 
 [^1]: [Cellebrite UFED](https://cellebrite.com/) (Universal Forensic Extraction Device) is a forensic tool to extract and analyze data from mobile devices.
 [^2]: Greetings to PPHA-IuK.
+
 
 
